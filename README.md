@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack developer with 6 years in Ruby on Rails & JavaScript, passionate about building impactful products. Currently diving into Serverless Framework and Python. Always up for learning something new!
+Fullstack developer with 6 years in Ruby on Rails & JavaScript, passionate about building impactful products. Currently diving into Rails 7, Serverless Framework, and Python. Always up for learning something new!
 
 
 ## 🌐 Socials:
